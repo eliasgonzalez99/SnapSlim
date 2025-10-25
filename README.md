@@ -1,0 +1,2 @@
+# SnapSlim
+Compressor of Image 
